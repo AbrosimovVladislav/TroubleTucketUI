@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "TroubleTucketUI"
+    }
+  },
+  "defaultProject": "TroubleTucketUI",
+  "cli": {
+    "analytics": false
+  }
 }
